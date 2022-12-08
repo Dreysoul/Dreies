@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### git 操作
+- git add . 添加到暂存
+- git commit -m "这次提交的信息 详细点"
